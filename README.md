@@ -1,6 +1,6 @@
 # 🧭 ByGuide – Roskildes Digitale Oplevelsesplatform
 
-### 1. Obligatorisk Opgave – Sommer 2024 
+### 1. Obligatorisk Opgave – Efterår 2024 
 **Fag:** Programmering, Systemudvikling og Projektstyring
 
 ByGuide er en digital platform, som præsenterer Roskilde Kommunes begivenheder, attraktioner og kulturarv i et brugervenligt og mobilvenligt format. Brugere kan læse opslag, finde oplevelser og begivenheder, mens virksomheder og kommune kan tilføje indhold. Projektet er udviklet i Razor Pages med fokus på funktionalitet frem for design.
